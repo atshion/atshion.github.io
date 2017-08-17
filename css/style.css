@@ -5,12 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*	Edit this section
-*
-* ======================================================= */
+
 body {
   font-family: "Source Sans Pro", Arial, sans-serif;
   line-height: 1.5;
@@ -228,7 +223,6 @@ figure {
   color: #fff;
 }
 
-/* Superfish Override Menu */
 .sf-menu {
   margin: 0 !important;
 }
@@ -1233,5 +1227,3 @@ h3.heading-section:before {
   z-index: 9999;
   background: url(../images/hourglass.svg) center no-repeat #222222;
 }
-
-/*# sourceMappingURL=style.css.map */
